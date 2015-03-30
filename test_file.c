@@ -2,8 +2,7 @@
 
 void main() {
 	
-	printf("Probemos con este archivito, Leo!!"); 
-	printf("Esta es la línea que debe dar conflicto");
-	printf("Prueba de Merge Error");
-	prinf("d");
+	printf("\n\n\nProbemos con este archivito, Leo!!. \n"); 
+	printf("Esta es la línea que debe dar conflicto. \n");
+	printf("Prueba de Merge Error. \n\n\n");
 }
