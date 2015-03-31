@@ -6,5 +6,6 @@ void main() {
 	printf("Esta es la línea que debe dar conflicto. \n");
 	printf("Otra Linea. \n");
 	printf("Otra Linea. \n");
+	printf("Otra Linea. \n");
 	printf("Prueba de Merge Error. \n\n\n");
 }
